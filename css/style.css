@@ -16,13 +16,12 @@ main,footer{
 header{
   background-color: #4EA0FF;
   background-image: url("../img/pattern.png");
-  background-size: contain;
-  background-position: top;
-  height: 100px;
+  background-size: auto 180px;
+  height: 90px;
 }
 
 .logo{
-  width:200px;
+  width:150px;
   margin: 10px;
   padding-top: 30px;
 }
