@@ -26,8 +26,34 @@ figcaption{
   font-size: 0.8rem;  
 }
 
-p span{
+ul{
+  padding: 20px 0 30px 15px;
+}
+
+table{
+  width: 100%;
+  font-size: 0.9rem;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+th{
+  width: 0px;
+  text-align:left;
+  background-color: #20A9E5;
+  color:white;
+}
+
+.boolean{
   color: #2DAEE6;
+}
+
+.yellow{
+  background-color: yellow; 
+}
+
+.content > p{
+  padding-top: 15px;
 }
 
 .logo{
@@ -42,4 +68,8 @@ p span{
 
 .gallery{
   padding-top: 15px;
+}
+
+.color{
+  background-color:#B1E5F2;
 }
